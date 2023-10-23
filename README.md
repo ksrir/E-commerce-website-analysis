@@ -6,3 +6,5 @@ I'm thrilled to share my most recent project, which uses Power BI to analyze Sup
 
 I was able to standardize and clean the data using data transformation technologies, ensuring that all of the data was correct and trustworthy. The calculations option was useful for figuring out various performance indicators for Sales in regions and sales based on categories.
 
+
+
